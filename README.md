@@ -7,8 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/joaquindilernia.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="joaquindilernia.com" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joaquin di lernia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaquin di lernia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joaquin-di-lernia-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaquin di lernia" height="30" width="40" /></a>
 <a href="https://instagram.com/joacodiler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joacodiler" height="30" width="40" /></a>
 </p>
 
